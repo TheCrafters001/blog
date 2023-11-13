@@ -2,3 +2,4 @@ baseURL = 'https://thecrafters001.github.io/blog/'
 languageCode = 'en-us'
 title = "TheCrafters001's Blog"
 theme = 'ananke'
+copyright = "TheCrafters001"
