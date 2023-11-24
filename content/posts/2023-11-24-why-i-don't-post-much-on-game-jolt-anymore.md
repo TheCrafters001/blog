@@ -11,7 +11,7 @@ categories:
     - Site News
 Author: TheCrafters001
 ---
-So. You may be wondering why I don't post on Game Jolt anymore. <!--more--> Well, I honestly just lost intrest in the site due to all the changes the website has been making. The website, in my opinion, has been more geared to Creators, which, while I am not opposed to having some way of making money, I dislike the way how hard Creators are pushed on the website.
+So. You may be wondering why I don't post on Game Jolt anymore. <!--more--> Well, I honestly just lost interest in the site due to all the changes the website has been making. The website, in my opinion, has been more geared to Creators, which, while I am not opposed to having some way of making money, I dislike the way how hard Creators are pushed on the website.
 
 ### The Good
 
