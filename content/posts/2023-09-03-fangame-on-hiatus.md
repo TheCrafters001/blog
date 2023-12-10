@@ -1,5 +1,4 @@
 ---
-slug: fan-game-hiatus
 Author: TheCrafters001
 title: Fan-Game on Hiatus
 description: Hi! I wanted to let everyone know something about my fan game.

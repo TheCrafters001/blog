@@ -10,7 +10,6 @@ tags:
 categories:
     - Site News
 Author: TheCreafters001
-slug: huge-website-update-incoming
 ---
 ![A picture of my current website as of 11/14/23](/blog/old-site.png)
 I am working on a big update on my website, which will remove the blog on it. As for why, it is becasue I don't like the way it looks, despite me building it for the most part.
