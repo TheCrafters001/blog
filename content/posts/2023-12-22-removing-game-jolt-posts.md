@@ -1,7 +1,7 @@
 ---
 title: I am removing most of my Game Jolt Posts
 description: A post discussing why I am removing my Game Jolt Posts.
-date: 2023-12-22T22:10:00-5000
+date: 2023-12-22T22:10:00Z
 preview: ""
 draft: false
 tags:
